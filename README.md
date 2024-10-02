@@ -1,6 +1,6 @@
 # Power BI Dashboard Project - Zomato-like App Performance Metrics
 
-This repository contains a Power BI dashboard developed as part of the **Power BI Bootcamp** by **Grow Data Skills**, led by **Shailja Mishra**. The dashboard focuses on analyzing user engagement and sales performance for a Zomato-like food delivery app.
+This repository contains a Power BI dashboard, led by **Shailja Mishra**. The dashboard focuses on analyzing user engagement and sales performance for a Zomato-like food delivery app.
 
 ## 📊 Project Overview
 
